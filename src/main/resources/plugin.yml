@@ -1,6 +1,6 @@
 name: DBDrivers
-api: 1.0.0
-version: 1.0.0
+api: 2.0.0
+version: 1.0.1
 main: net.lldv.DBDrivers.DBDrivers
 author: LlamaDevelopment
 description: DBDrivers
